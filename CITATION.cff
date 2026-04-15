@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Entity Registry
+message: If you use this repository, please cite it as part of the Goldstonian Concordance Bible knowledge graph ecosystem.
+type: dataset
+authors:
+  - family-names: Goldston
+    given-names: Justin
+date-released: 2026
+repository-code: https://github.com/GoldstonianConcordanceBible/entity-registry
+keywords:
+  - theology
+  - biblical studies
+  - entity registry
+  - knowledge graph
+  - generative engine optimization
+  - Goldstonian Concordance Bible
+license: MIT
