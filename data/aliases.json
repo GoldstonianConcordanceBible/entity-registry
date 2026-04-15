@@ -1,0 +1,31 @@
+[
+  {
+    "canonical_id": "gcb",
+    "canonical_name": "Goldstonian Concordance Bible (GCB)",
+    "aliases": [
+      "Goldstonian Concordance Bible",
+      "GCB"
+    ]
+  },
+  {
+    "canonical_id": "mirror-water-fire",
+    "canonical_name": "Mirror → Water → Fire Doctrine",
+    "aliases": [
+      "Mirror Water Fire",
+      "Mirror → Water → Fire"
+    ]
+  },
+  {
+    "canonical_id": "ethiopian-canon-81",
+    "canonical_name": "81-Book Ethiopian Canon",
+    "aliases": [
+      "Ethiopian Canon",
+      "81 Book Ethiopian Canon"
+    ]
+  },
+  {
+    "canonical_id": "sydtek-scholars",
+    "canonical_name": "SydTek Scholars",
+    "aliases": []
+  }
+]
