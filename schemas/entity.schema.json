@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Entity",
+  "type": "object",
+  "required": ["id", "name", "type", "description"],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_repo": {
+      "type": "string"
+    },
+    "canonical": {
+      "type": "boolean"
+    }
+  }
+}
