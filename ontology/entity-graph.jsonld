@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/entity-registry#gcb",
+      "@type": "Dataset",
+      "name": "Goldstonian Concordance Bible (GCB)",
+      "description": "A machine-readable theological concordance and knowledge graph ecosystem."
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/entity-registry#mirror-water-fire",
+      "@type": "CreativeWork",
+      "name": "Mirror → Water → Fire Doctrine",
+      "description": "A core doctrinal and interpretive framework in the GCB ecosystem."
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/entity-registry#ethiopian-canon-81",
+      "@type": "CreativeWork",
+      "name": "81-Book Ethiopian Canon",
+      "description": "The canon structure used as a primary reference layer in the GCB ecosystem."
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/entity-registry#sydtek-scholars",
+      "@type": "Organization",
+      "name": "SydTek Scholars"
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/entity-registry#sydtek-university",
+      "@type": "Organization",
+      "name": "SydTek University"
+    }
+  ]
+}
