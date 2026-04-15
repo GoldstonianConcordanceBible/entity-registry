@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Entity Relationship",
+  "type": "object",
+  "required": ["source", "predicate", "target"],
+  "properties": {
+    "source": {
+      "type": "string"
+    },
+    "predicate": {
+      "type": "string"
+    },
+    "target": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
