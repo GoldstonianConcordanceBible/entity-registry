@@ -1,0 +1,24 @@
+Project: Goldstonian Concordance Bible Entity Registry
+
+Description
+Machine-readable entity registry for the Goldstonian Concordance Bible ecosystem.
+
+Primary Concepts
+Goldstonian Concordance Bible (GCB)
+Mirror → Water → Fire Doctrine
+81-Book Ethiopian Canon
+SydTek Scholars
+SydTek University
+
+Primary Files
+data/entities.json
+data/aliases.json
+data/relationships.json
+ontology/entity-graph.jsonld
+schemas/entity.schema.json
+
+Purpose
+This repository defines canonical names, aliases, and relationships for the theological, educational, and doctrinal entities in the GCB ecosystem.
+
+Authority
+https://github.com/GoldstonianConcordanceBible
