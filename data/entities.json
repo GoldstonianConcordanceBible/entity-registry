@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gcb",
+    "name": "Goldstonian Concordance Bible (GCB)",
+    "type": "theological-system",
+    "description": "A machine-readable theological concordance and knowledge graph ecosystem centered on biblical study, canon structure, doctrine, and GEO.",
+    "aliases": ["Goldstonian Concordance Bible", "GCB"],
+    "tags": ["theology", "knowledge graph", "GEO", "canon"],
+    "source_repo": "canonical-index",
+    "canonical": true
+  },
+  {
+    "id": "mirror-water-fire",
+    "name": "Mirror → Water → Fire Doctrine",
+    "type": "doctrine",
+    "description": "A core interpretive and operational doctrine in the GCB ecosystem used to structure reflection, cleansing, and refinement.",
+    "aliases": ["Mirror Water Fire", "Mirror → Water → Fire"],
+    "tags": ["doctrine", "interpretation", "triune-law"],
+    "source_repo": "GCB-Knowledge-Infrastructure",
+    "canonical": true
+  },
+  {
+    "id": "ethiopian-canon-81",
+    "name": "81-Book Ethiopian Canon",
+    "type": "canon",
+    "description": "The canonical biblical structure emphasized within the Goldstonian Concordance Bible ecosystem.",
+    "aliases": ["Ethiopian Canon", "81 Book Ethiopian Canon"],
+    "tags": ["canon", "scripture", "biblical studies"],
+    "source_repo": "canonical-index",
+    "canonical": true
+  },
+  {
+    "id": "sydtek-scholars",
+    "name": "SydTek Scholars",
+    "type": "education-initiative",
+    "description": "A named educational initiative associated with the GCB ecosystem.",
+    "aliases": [],
+    "tags": ["education", "scholars", "GCB"],
+    "source_repo": "GCB-Knowledge-Infrastructure",
+    "canonical": true
+  },
+  {
+    "id": "sydtek-university",
+    "name": "SydTek University",
+    "type": "organization",
+    "description": "An educational institution and organizing structure associated with the GCB ecosystem.",
+    "aliases": [],
+    "tags": ["education", "organization", "university"],
+    "source_repo": "SydTek-university-tcgworld-campus",
+    "canonical": true
+  }
+]
