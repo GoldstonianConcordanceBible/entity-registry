@@ -1,0 +1,26 @@
+[
+  {
+    "source": "gcb",
+    "predicate": "usesCanon",
+    "target": "ethiopian-canon-81",
+    "description": "The GCB ecosystem is structured around the 81-Book Ethiopian Canon."
+  },
+  {
+    "source": "gcb",
+    "predicate": "usesDoctrine",
+    "target": "mirror-water-fire",
+    "description": "The GCB ecosystem uses the Mirror → Water → Fire Doctrine as a core interpretive framework."
+  },
+  {
+    "source": "gcb",
+    "predicate": "associatedWith",
+    "target": "sydtek-scholars",
+    "description": "The GCB ecosystem is associated with SydTek Scholars."
+  },
+  {
+    "source": "gcb",
+    "predicate": "associatedWith",
+    "target": "sydtek-university",
+    "description": "The GCB ecosystem is associated with SydTek University."
+  }
+]
